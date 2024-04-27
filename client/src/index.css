@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+
+  background: linear-gradient(
+    90deg,
+    rgba(77, 66, 255, 1) 0%,
+    rgba(255, 0, 219, 1) 100%
+  );
+}
